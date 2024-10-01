@@ -1,43 +1,48 @@
-# 👋 Hello, I’m [Ton Nom]
+# 👋 Hello, I’m [Nicolas Martinez]
 
 ## 🌟 About Me
-Passionate about **TypeScript** | Building **full-stack** applications with **Nest.js** & **Prisma** | Enthusiast of **clean code** and **modern web technologies**. 
+Expert in **PHP Symfony**, currently working in a company developing web solutions using **PHP Symfony**, **WordPress**, **PrestaShop**, **WooCommerce**, and **Drupal**. I’m also building full-stack applications with **React**, **Nest.js**, and **Prisma** in my personal projects.
 
-Always learning, always improving 🚀. I enjoy solving complex problems, building innovative solutions, and sharing knowledge with the community.
+Passionate about web development, whether it’s creating complex enterprise systems or eCommerce platforms. Always seeking to learn and apply modern web technologies 🚀.
 
 ---
 
 ## 🚀 Technologies & Tools
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🛠️ Current Projects
-### 🔐 **Authentication System with NestJS & Passport JWT**
-Developing a modern authentication system using **Nest.js** and **Passport JWT**, with a robust **TypeScript** backend and secure **JWT** token management. Integrating **Prisma** for seamless database interaction.
+### 🔐 **Full-Stack Application with React, NestJS & Prisma**
+Currently developing a modern full-stack application using **React** for the frontend, **Nest.js** for the backend, and **Prisma** for database management. Focused on building a secure, efficient, and scalable platform.
 
-- **Features**: User roles, secure token handling, and API protection.
-- **Technologies**: Nest.js, Prisma, Passport JWT, TypeScript.
+- **Features**: Authentication, role-based access, API development, and database interaction.
+- **Technologies**: React, TypeScript, Nest.js, Prisma, PostgreSQL.
 
-### 🏥 **Healthcare Management App**
-A comprehensive **healthcare management system** for hospitals and patients. Implemented entities include **users**, **hospitals**, and **medical records** to streamline data management.
-
-- **Tech Stack**: TypeScript, Prisma, Nest.js, PostgreSQL.
+### 💼 **Enterprise Work with PHP Symfony & CMS**
+In my professional role, I develop web applications and eCommerce platforms using:
+- **PHP Symfony** for building robust backends.
+- **WordPress**, **PrestaShop**, **WooCommerce**, and **Drupal** for content management and eCommerce solutions.
 
 ---
 
-## 🧠 Always Learning
-I'm currently diving deeper into:
-- **Microservices architecture** with **Nest.js**.
-- Advanced **TypeScript** patterns.
-- Exploring **GraphQL** and **Apollo Server**.
+## 🧠 Currently Learning
+I'm expanding my skill set by diving deeper into:
+- **React** for advanced front-end development.
+- **TypeScript** for scalable and maintainable code.
+- **Nest.js** for modern backend frameworks.
+- **Prisma** for managing databases with TypeScript.
 
 ---
 
@@ -55,4 +60,4 @@ I'm currently diving deeper into:
 
 ---
 
-**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
+**“Strive for continuous improvement, instead of perfection.” – Kim Collins**
