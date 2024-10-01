@@ -1,4 +1,4 @@
-# 👋 Hello, I’m [Nicolas Martinez]
+# 👋 Hello, I’m Nicolas Martinez
 
 ## 🌟 About Me
 Expert in **PHP Symfony**, currently working in a company developing web solutions using **PHP Symfony**, **WordPress**, **PrestaShop**, **WooCommerce**, and **Drupal**. I’m also building full-stack applications with **React**, **Nest.js**, and **Prisma** in my personal projects.
