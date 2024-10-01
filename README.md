@@ -60,7 +60,6 @@ I'm expanding my skill set by diving deeper into:
 
 ## 🎨 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nico13M&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico13M&layout=compact&theme=radical)
 
 ---
