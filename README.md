@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Nicolas Martinez
 
 ## 🌟 About Me
-Expert in **PHP Symfony**, currently working in a company developing web solutions using **PHP Symfony**, **WordPress**, **PrestaShop**, **WooCommerce**, and **Drupal**. I’m also building full-stack applications with **React**, **Nest.js**, and **Prisma** in my personal projects.
+Expert in **PHP Symfony**, currently working in a company developing web solutions using **PHP Symfony**, **WordPress**, **PrestaShop**, **WooCommerce**, and **Drupal**. I’m also building full-stack applications with **React**, NextJs, **NestJs**, and **Prisma** in my personal projects.
 
 Passionate about web development, whether it’s creating complex enterprise systems or eCommerce platforms. Always seeking to learn and apply modern web technologies 🚀.
 
@@ -12,7 +12,7 @@ Passionate about web development, whether it’s creating complex enterprise sys
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,10 +31,10 @@ Passionate about web development, whether it’s creating complex enterprise sys
 
 ## 🛠️ Current Projects
 ### 🔐 **Full-Stack Application with React, NestJS & Prisma**
-Currently developing a modern full-stack application using **React** for the frontend, **Nest.js** for the backend, and **Prisma** for database management. Focused on building a secure, efficient, and scalable platform.
+Currently developing a modern full-stack application using **React** and **NextJs** for the frontend, **NestJs** for the backend, and **Prisma** for database management. Focused on building a secure, efficient, and scalable platform.
 
 - **Features**: Authentication, role-based access, API development, and database interaction.
-- **Technologies**: React, TypeScript, Nest.js, Prisma, PostgreSQL.
+- **Technologies**: React, NextJs, TypeScript, NestJs, Prisma, PostgreSQL.
 
 ### 💼 **Enterprise Work with PHP Symfony & CMS**
 In my professional role, I develop web applications and eCommerce platforms using:
@@ -47,7 +47,7 @@ In my professional role, I develop web applications and eCommerce platforms usin
 I'm expanding my skill set by diving deeper into:
 - **React** and **NextJS** for advanced front-end development.
 - **TypeScript** for scalable and maintainable code.
-- **Nest.js** for modern backend frameworks.
+- **NestJs** for modern backend frameworks.
 - **Prisma** for managing databases with TypeScript.
 
 ---
