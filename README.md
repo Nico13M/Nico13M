@@ -58,10 +58,4 @@ I'm expanding my skill set by diving deeper into:
 
 ---
 
-## 🎨 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico13M&layout=compact&theme=radical)
-
----
-
 **“Strive for continuous improvement, instead of perfection.” – Kim Collins**
